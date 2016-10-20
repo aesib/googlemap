@@ -1,2 +1,0 @@
-# googlemap
-kml file 
